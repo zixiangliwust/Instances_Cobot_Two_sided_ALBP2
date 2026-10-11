@@ -1,0 +1,56 @@
+<number of tasks>
+12
+<number of stations>
+4
+<order strength>
+0.000
+<type of the robots>
+1
+<upper bound>
+0
+<robot flexibility>
+0.00
+<collaboration flexibility>
+0.00
+<number of robots>
+0
+<task times>
+1 2 2 2
+2 3 3 3
+3 2 2 2
+4 3 3 3
+5 1 1 1
+6 1 1 1
+7 3 3 3
+8 3 3 3
+9 2 2 2
+10 2 2 2
+11 2 2 2
+12 1 1 1
+<task directions>
+1 L
+2 R
+3 E
+4 L
+5 E
+6 L
+7 E
+8 R
+9 E
+10 E
+11 E
+12 R
+<precedence relations>
+1,4
+2,5
+3,6
+4,7
+5,7
+5,8
+5,9
+6,9
+7,10
+8,10
+9,11
+11,12
+<end>
