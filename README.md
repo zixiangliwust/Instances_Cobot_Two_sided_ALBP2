@@ -65,3 +65,13 @@ See LICENSE file for terms of use.
 ## Contact
 
 For questions or contributions, please visit the GitHub repository.
+
+---
+
+## Document Index
+
+- [CHANGELOG.md](CHANGELOG.md) — version history and changelog
+- [VERSION](VERSION) — current version
+- [LICENSE](LICENSE) — license
+
+**Maintainer:** IISO Team ｜ **Version:** 1.1.0 ｜ **Last Updated:** 2026-10-12
