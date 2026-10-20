@@ -1,6 +1,6 @@
 # Instances_Cobot_Two_sided_ALBP2
-**Version:** 1.1.0  
-**Last Updated:** March 23, 2026  
+**Version:** 1.2.0  
+**Last Updated:** 2026-10-21 23, 2026  
 
 Benchmark instances for two-sided assembly line balancing with collaborative robots to minimize cycle time.
 
@@ -74,4 +74,4 @@ For questions or contributions, please visit the GitHub repository.
 - [VERSION](VERSION) — current version
 - [LICENSE](LICENSE) — license
 
-**Maintainer:** IISO Team ｜ **Version:** 1.1.0 ｜ **Last Updated:** 2026-10-12
+**Maintainer:** IISO Team ｜ **Version:** 1.2.0 ｜ **Last Updated:** 2026-10-21
